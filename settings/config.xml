@@ -15,7 +15,7 @@
    <config version="1.0" htmlParse="false">
 
       <!-- title of the study -->
-      <item id="studyTitle">Name of your study</item>
+      <item id="studyTitle">Peak Car</item>
 
       <!-- text-align property(left|right) -->
       <item id="textAlign">left</item>
@@ -46,11 +46,15 @@
       <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
       <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
       <item id="form">
-         <label>Age*</label>
+         <label>Age</label>
          <note>Please enter your year of birth (YYYY, eg. 1980).</note>
          <input type="text" required="true" maxlength="4" restricted="0-9"></input>
 
-         <label>Gender*</label>
+         <label>Level of education*</label>
+         <note>Please select your highest level of education (ongoing/completed) (YYYY, eg. 1980).</note>
+        <input type="select" required="false">High School; Bachelor; Master; PhD</input>
+
+         <label>Gender</label>
          <note>Please select your gender.</note>
          <input type="radio" required="true">female;male</input>
 
@@ -58,15 +62,15 @@
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
 
          <label>What kind of transportation do you use?</label>
-         <input type="checkbox" required="false">Car;Railroad;Bike</input>
+         <input type="checkbox" required="false">Car;Public Transport;Bike;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
 
          <label>What kind of transportation do you prefer?</label>
-         <input type="select" required="false">Car;Railroad;Bike</input>
+         <input type="select" required="false">Car;Public Transport;Bike;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
 
          <label>Comments</label>
          <input type="textarea" required="false"></input>
 
-         <note bg="false">All fields marked with an * are mandatory.</note>
+         <note bg="false">All fields marked are mandatory.</note>
       </item>
 
       <!-- URL for data transmission via POST/GET (leave blank if not required) -->
