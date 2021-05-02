@@ -62,7 +62,7 @@
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
 
          <label>What kind of transportation do you use?</label>
-	 <input type="select" required="false" scale="4 or more days per week;1 to 3 days per week ; 1 to 3 days per month; 6 to 11 days per year ; less than one day per year; Never;">Car;Public Transport;Bike;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
+	 <input type="rating10" required="false" scale="4 or more days per week;1 to 3 days per week ; 1 to 3 days per month; 6 to 11 days per year ; less than one day per year; Never;">Car;Public Transport;Bike;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
 
          <label>What kind of transportation do you prefer?</label>
          <input type="select" required="false">Car;Public Transport;Bike;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
