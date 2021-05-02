@@ -61,47 +61,47 @@
          <label>Please answer the following questions.</label>
          <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
 
+<label>Car Ownership</label>
+         <note>Please select what applies.</note>
+         <input type="radio" required="true">I currently own a car and would like to continue using one; I currently own a car but would not like to use one in the future; I do not own a car and do not think I will own one in the future; I do not own a car but would like to have one in the future.</input>
+
          <label>How often do you use the following modes of Transport</label>
          <note>Car</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
-         <label>How often do you use the following modes of Transport</label>
+      
          <note>Public Transport</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
-         <label>How often do you use the following modes of Transport</label>
+      
          <note> Bike </note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
-         <label>How often do you use the following modes of Transport</label>
+     
          <note>Scooter</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
-         <label>How often do you use the following modes of Transport</label>
          <note> Shared Bike</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
-
-         <label>How often do you use the following modes of Transport</label>
          <note>Shared Car</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
-         <label>How often do you use the following modes of Transport</label>
          <note>Shared Scooter</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
-         <label>How often do you use the following modes of Transport</label>
+
          <note>Motorcycle</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
-         <label>How often do you use the following modes of Transport</label>
+     
          <note>Taxi</note>
-        <input type="select" required="false">4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
          <label>What kind of transportation do you prefer?</label>
