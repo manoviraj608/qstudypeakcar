@@ -54,6 +54,10 @@
          <note>Please select your highest level of education (ongoing/completed).</note>
         <input type="select" required="false">High School; Bachelor; Master; PhD</input>
 
+  	<label>Residence</label>
+         <note>Please enter the name of the city/town/village that you belong to in The Netherlands or where you have lived the longest.</note>
+         <input type="textarea" required="false"></input>
+
          <label>Gender</label>
          <note>Please select your gender.</note>
          <input type="radio" required="true">female;male</input>
@@ -107,7 +111,7 @@
          <label>What kind of transportation do you prefer?</label>
          <input type="select" required="false">Car;Public Transport;Bike;Scooter;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
 
-         <label>Comments</label>
+         <label>Do you have any thoughts on the study or any perspective that you think was not included in the study? </label>
          <input type="textarea" required="false"></input>
 
          <note bg="false">All fields marked are mandatory.</note>
@@ -119,6 +123,6 @@
       <!-- request mode (post|get|firebase) -->
       <item id="submitUrlMethod">firebase</item>
 
-      <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
+      <!-- data transmission via email, user must have an e-mail program like Outlook (leave blank if not required) -->
       <item id="submitMail">yourdomain.com</item>
    </config>
