@@ -78,7 +78,7 @@
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
-  <item id="step4Text">In the next step you need to explain why you agree most or disagree most with the following statements you have placed below "+5" or "-5". Understanding why you placed a certain statement in a certain position will help us understand your travel behaviour.{br}{br}{i} {i}</item>
+  <item id="step4Text">In the next step you need to explain why you agree most or disagree most with the following statements you have placed at "+5" or "-5". Understanding why you placed a certain statement in a certain position will help us understand your travel behaviour.{br}{br}{i} {i}</item>
 
   <!-- step5: additional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
   <item id="step5Head">Step 5 of 5</item>
