@@ -52,18 +52,18 @@
 
          <label>Level of education</label>
          <note>Please select your highest level of education (ongoing/completed).</note>
-        <input type="select" required="false">High School; Bachelor; Master; PhD</input>
+        <input type="select" required="true">High School; Bachelor; Master; PhD</input>
 
   	<label>Residence</label>
          <note>Please enter the name of the city/town/village that you belong to in The Netherlands or where you have lived the longest.</note>
-         <input type="textarea" required="false"></input>
+         <input type="textarea" required="true"></input>
 
          <label>Gender</label>
          <note>Please select your gender.</note>
          <input type="radio" required="true">female;male</input>
 
          <label>Please answer the following questions.</label>
-         <input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
+         <input type="rating2" required="true" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
 
 <label>Car Ownership</label>
          <note>Please select what applies.</note>
@@ -71,48 +71,48 @@
 
          <label>How often do you use the following modes of Transport</label>
          <note>Car</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
       
          <note>Public Transport</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
       
          <note> Bike </note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
      
          <note>Scooter</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
          <note> Shared Bike</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
          <note>Shared Car</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
          <note>Shared Scooter</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
          <note>Motorcycle</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
      
          <note>Taxi</note>
-        <input type="select" required="false"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
+        <input type="select" required="true"> 4 or more days per week; 1 to 3 days per week; 1 to 3 days per month; 6 to 11 days per year; Less than 1 day per year; Never </input>
 
 
          <label>What kind of transportation do you prefer?</label>
-         <input type="select" required="false">Car;Public Transport;Bike;Scooter;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
+         <input type="select" required="true">Car;Public Transport;Bike;Scooter;Shared Bike; Shared Car;Shared Scooter;Motorcycle; Taxi</input>
 
          <label>Do you have any thoughts on the study or any perspective that you think was not included in the study? </label>
-         <input type="textarea" required="false"></input>
+         <input type="textarea" required="true"></input>
 
          <note bg="false">All fields marked are mandatory.</note>
       </item>

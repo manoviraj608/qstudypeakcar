@@ -25,7 +25,7 @@
 <language version="1.0" htmlParse="true">
 
   <!-- misc -->
-  <item id="btnContinue">Continue...</item>
+  <item id="btnContinue">Continue</item>
   <item id="btnclose">Close</item>
   <item id="btnHelp">Help me!</item>
   <item id="btnAgreement">Agree</item>
@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">Welcome! Thank you so much for participating in my study. This study is a part of my master thesis at TU Delft.{br}{br}The screens following this will include instructions on how to proceed.</item>
+  <item id="welcomeText">Welcome! Thank you so much for participating in my study. This study is a part of my Master Thesis at TU Delft.{br}{br}The screens following this will include instructions on how to proceed.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
@@ -62,33 +62,33 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is aimed to understand the 'Peak Car' phenomenon. The peak car phenomenon is defined as the interruption in the car usage growth leading to a reduction in car usage. You will be asked about how you feel about certain statements pertaining to car usage, public transportation, shared mobility, etc. {br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+  <item id="introText">This study is aimed to understand the 'Peak Car' phenomenon. The peak car phenomenon is defined as the reduction in car usage in recent years.{br}{br} You will be asked about how you feel about certain statements pertaining to car usage, public transportation, shared mobility, etc and will be expected to sort these.{br}{br}Please maximise your browser window and click on the continue-button to start the survey.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
-  <item id="step1Text">Read the following statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or press 1, 2, 3 on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
+  <item id="step1Text">Read the following statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or press 1, 2, 3 on your keyboard. Changes can be made later in the next step.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom right corner.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
-  <item id="step2Text">Take the cards from the "AGREE"-pile and read them again. You can scroll through the statements by using the scroll bar. Next, select the two statements you most agree with and place them on right side of the score sheet below the "+2".{br}{br}Now read the cards in the "DISAGREE"-pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-2".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+1"/"-1". Follow this procedure for all cards in the "AGREE"- and "DISAGREE"-pile.{br}{br}Finally, read the "NEUTRAL"-cards again and arrange them in the remaining open boxes of the score sheet.</item>
+  <item id="step2Text">Now for the next step you need to read all the cards that you put into the piles again and organise them on the sheet. You can scroll through the statements by using the scroll bar. {br}{br}Take the cards from the "AGREE" pile and read them again.  Next, select the two statements you most agree with and place them on right side of the score sheet below the "+5".{br}{br}Now read the cards in the "DISAGREE"-pile again. Just like before, select the two statements you most disagree with and place them on the left side of the score sheet below the "-5".{br}{br}Next, select the statements you second most agree/disagree with and place them under "+4"/"-4". Follow this procedure for all cards in the "AGREE"- and "DISAGREE" pile.{br}{br}Finally, read the "NEUTRAL" cards again and arrange them in the remaining open boxes of the score sheet. </item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
-  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}{i}  {i}</item>
+  <item id="step3Text">Now that you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br} In case you are satisfied with your placement press continue{I}  {i}</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
-  <item id="step4Text">Please explain why you agree most or disagree most with the following statements you have placed below "+5" or "-5".{br}{br}{i} {i}</item>
+  <item id="step4Text">In the next step you need to explain why you agree most or disagree most with the following statements you have placed below "+5" or "-5". Understanding why you placed a certain statement in a certain position will help us understand your travel behaviour.{br}{br}{i} {i}</item>
 
-  <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+  <!-- step5: additional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
   <item id="step5Head">Step 5 of 5</item>
-  <item id="step5Text">Finally, please answer the following questions regarding your background.{br}{br}{I}.   {i}</item>
+  <item id="step5Text">Finally, please answer the following questions regarding your background.{br}{br}{I}   {i}</item>
 
   <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
   <item id="transferHead">Submit Data</item>
   <item id="transferText">You've finished the survey. Please submit your data now.</item>
   <item id="transferFailed">Data submission failed. Please try again or mail your results via email/post.</item>
-  <item id="transferOk">Thank you for unsing FlashQ. We would appreciate if you could send us feeddback about this application (bugs, ideas, suggestion, etc.).{br}{br}Christian Hackert{br}{a href="http://www.hackert.biz/flashq" target="_blank"}{u}www.hackert.biz/flashq{/u}{/a}.{br}{br}You can now close your browser window.</item>
+  <item id="transferOk">Thank you for for participating in my study.{br}{br}You can now close your browser window.</item>
 
   <!-- send data via mail, only displayed if submitUrl is blank (see config-file) -->
   <item id="mailHead">Submit Data</item>
