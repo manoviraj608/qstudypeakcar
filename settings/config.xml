@@ -52,7 +52,7 @@
 
          <label>Level of education</label>
          <note>Please select your highest level of education (ongoing/completed).</note>
-        <input type="select" required="true">High School; Bachelor; Master; PhD</input>
+        <input type="select" required="true">MBO/VMBO;HBO/HAVO;WO/VWO;Other</input>
 
   	<label>Residence</label>
          <note>Please enter the name of the city/town/village that you belong to in The Netherlands or where you have lived the longest.</note>
@@ -60,7 +60,7 @@
 
          <label>Gender</label>
          <note>Please select your gender.</note>
-         <input type="radio" required="true">female;male</input>
+         <input type="radio" required="true">female;male;I prefer not say</input>
 
          <label>Please answer the following questions.</label>
          <input type="rating2" required="true" scale="Yes;No;">There's a car in my household;I own a car for myself</input>

@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">Welcome! Thank you so much for participating in my study. This study is a part of my Master Thesis at TU Delft.{br}{br}The screens following this will include instructions on how to proceed.</item>
+  <item id="welcomeText">Welcome! Thank you so much for participating in my study. This study is a part of my Master Thesis at TU Delft.{br}{br}The screens following this will include instructions on how to proceed.{br}{br}This study aims to study your travel behaviour in a "Non-Corona" situation, please keep that in mind when performing the survey.  </item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
