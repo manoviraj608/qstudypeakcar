@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- 
+//
+// ===================================================
+// FlashQ by Christian Hackert and Gernot Braehler
+// ===================================================
+// Statements.
+// @author		Christian Hackert <www.hackert.biz/flashq>
+// @version		FlashQ version 1.0
+// ===================================================
 // 
 // This is the place for your statements. The maximum 
 // number of statements is theoretically unlimited, but
@@ -37,44 +45,45 @@
 -->
 
 <statements version="1.0" htmlParse="false">
-  <statement id="1">Owning a car means considering costs like maintenance, insurance, parking and repair which become too much.</statement>
-  <statement id="2">There are so many sharing car, bike and scooter options that I do not feel like I will need to own any vehicle.</statement>
-  <statement id="3">It is difficult to get groceries on a bike or walking so I would prefer a car.  </statement>
-  <statement id="4">I feel guilty taking a mode of transport that is not environmentally friendly, but my time/money are more important. </statement>
-  <statement id="5">Its easy to use public transport since I can find all the timings, the fastest and best possible route on my phone. </statement>
-  <statement id="6">I like travelling by bike because cheaper and/or gives a good start to the day.</statement>
-  <statement id="7">If I had more money I would travel more. Now I try to travel less because it's expensive to travel.</statement>
-  <statement id="8">In the future I will buy/continue using my car. </statement>
-  <statement id="9">The infrastructure to walk/bike/use public transport is so good. I don't think you ever need to use a car.</statement>
-  <statement id="10">Public transport is expensive. It would be cheaper for me per ride if I had a car.</statement>
-  <statement id="11">I think it's better using shared mobility than owning a vehicle as it is better for the environment.</statement>
-  <statement id="12">I only use a taxi when I can share the costs with someone.</statement>
-  <statement id="13">Owning a car is nice since you wouldn't have to worry about getting a seat.</statement>
-  <statement id="14">Owning a car can make/makes it easier to travel.</statement>
-  <statement id="15">I like the privacy a car gives when travelling.</statement>
-  <statement id="16">It is so difficult finding parking in cities which is why I would prefer using a taxi when I need a car.</statement>
-  <statement id="17">I don’t think we need a car anymore but my parents and/or  other older members of my family still think its needed.</statement>
-  <statement id="18">The environmental impact of a mode does matter, but I prefer my comfort.</statement>
-  <statement id="19">I like using shared bikes and scooters. They're fast, cheap and I don't worry about parking.</statement>
-  <statement id="20">The weather is so unpredictable, its easier to travel if I own a car.</statement>
-  <statement id="21">Having a car can give an individual a sense of freedom.</statement>
-  <statement id="22">It is easy for me to use shared mobility. I can access it with my phone at any time and don't need to worry about anything.</statement>
-  <statement id="23">Currently it is difficult for me to own a car/ regularly use a car since I cannot afford it.</statement>
-  <statement id="24">Even though the public transportation in the Netherlands is good. I think you still need a car sometimes.</statement>
-  <statement id="25">Shared mobility is expensive so I prefer using public transport or just walking/biking.</statement>
-  <statement id="26">I like  travelling by  car since it gives a sense of safety.</statement>
-  <statement id="27">Using public transport is nice because you know exactly how much you will spend per ride. That is more difficult if you have a car.</statement>
-  <statement id="28">Sometimes public transportation is unreliable because either the road is closed or there is some work in progress on a railway line.</statement>
-  <statement id="29">Owning a car is too much of a hassle, especially if I'm living in a city. I rather spend that money elsewhere.</statement>
-  <statement id="30">I don't want to use a car/ try to use the car less due to environmental reasons.</statement>
-  <statement id="31">Using a car is more comfortable than other modes of transport since you can stop anywhere you like and go in your own time.</statement>
-  <statement id="32">I don't like using shared cars since you have to travel with someone you do not know.</statement>
-  <statement id="33">My need to travel has reduced in recent times since I can do everything online.</statement>
-  <statement id="34">If I were living away from a city I would prefer having a car for my commute.</statement>
-  <statement id="35">When I need to travel using public transport I have to plan a lot. I do not like doing that planning.</statement>
-  <statement id="36">If there were more shared mobility options easily available I do not think I would need a car.</statement>
-  <statement id="37">The public transportation is so efficient that I do not feel the need to use a car.</statement>
-  <statement id="38">Public transportation takes too long and I need to make multiple changes. So I would prefer using a car.</statement>
-  <statement id="39">I don't want to use a car but I wouldn't mind using one if it was electric.</statement>
-  <statement id="40">I think its nice to live somewhere where all my needs are met at a walkable distance. This removes the need of having a car.</statement>
+<statement id="1">Een innovatie aanpak voor quantum technologie heeft betrokkenheid nodig van wetenschap, bedrijfsleven, de rijksoverheid en burgers.</statement>
+<statement id="2">Bij innovatie mogen mensen, bedrijven en instellingen zonder waarneembaar belang genegeerd worden.</statement>
+<statement id="3">Indien mensen zonder zichtbaar belang reageren op een innovatie is het nodig om na te denken over hun reactie en daar gepast op te reageren.</statement>
+<statement id="4">Ik heb de standpunten van verschillende belanghebbenden niet nodig om een oordeel te vellen over de toepassing van beleid en beleidsinstrumenten. </statement>
+<statement id="5">Het is noodzakelijk om tijdens een innovatie, of een aanpak om te komen tot een innovatie, te reflecteren over mogelijke gevolgen van een innovatie.</statement>
+<statement id="6">Het is nodig het vermogen te hebben om af te wijken van bestaand beleid om mensen tegemoet te komen die een andere zienswijze hebben over een innovatie.</statement>
+<statement id="7">Het is noodzakelijk om beleid en beleidsinstrumenten aan te passen voor de invoering van quantum technologie. </statement>
+<statement id="8">Bij technologie of innovatie is het niet belangrijk om de technologie of de innovatie te begrijpen, het gaat om de toepassingen die daaruit naar voren komen.</statement>
+<statement id="9">Als een quantum technologische toepassing niet duurzamer is dan een conventionele technologische toepassing, dan mag het niet ingevoerd worden. </statement>
+<statement id="10">De nationale agenda quantum technologie is opgesteld door wetenschappers en bedrijfsleven daardoor niet inclusief. </statement>
+<statement id="11">De nationale agenda quantum technologie moet zich richten op maatschappelijke doelen.</statement>
+<statement id="12">Het is noodzakelijk het bedrijfsleven te betrekken bij een aanpak op het gebied van quantum technologie</statement>
+<statement id="13">Het is noodzakelijk om de wetenschap te betrekken bij een aanpak op het gebied van quantum technologie</statement>
+<statement id="14">Het is noodzakelijk om burgers te betrekken bij een aanpak op het gebied van quantum technologie</statement>
+<statement id="15">Normen en waarden veranderen door quantum technologie.</statement>
+<statement id="16">Nederland moet haar dominante positie  op het gebied van quantum technologie behouden.</statement>
+<statement id="17">Technologie is instrumenteel, het is wat mensen met specifieke toepassingen doen wat bepaalt of het effect wenselijk is.</statement>
+<statement id="18">Het moet duidelijk zijn wie er verantwoordelijk is voor enige gevolgen van quantum technologie voor deze toegepast mag worden. </statement>
+<statement id="19">Verhalen over de toekomst zijn een onderdeel van onze realiteit, ze zijn noodzakelijk  om onze gedachten te richten op gewenste innovaties. </statement>
+<statement id="20">Het creëren van verhalen over de toekomst zijn nodig om te verkennen of er betere alternatieve technologieën zijn dan quantum technologieën. </statement>
+<statement id="21">De wetenschap ontdekt, de industrie past  toe en de maatschappij moet zich aanpassen aan deze nieuwe mogelijkheden.</statement>
+<statement id="22">De Rijksoverheid is verantwoordelijk voor het voorbereiden van de maatschappij op innovatie en het bestrijden van ongewenste effecten van innovatie.</statement>
+<statement id="23">Het proces om te komen tot de inzet van quantum technologie moet gevormd worden door de maatschappelijke dialoog over deze technologie.</statement>
+<statement id="24">Het proces om te komen tot de inzet van quantum technologie moet gevormd worden door het beleid van de regering.</statement>
+<statement id="25">het proces om te komen tot de inzet van quantum technologie moet gevormd worden door het beleid van beleidsmedewerkers.</statement>
+<statement id="26">Controversiële onderwerpen moeten in het onderzoek naar, en innovatie met quantum technologie vermeden worden. </statement>
+<statement id="27">Mensen hebben hun normen en waarden niet zomaar paraat, daardoor kan men deze niet toepassen in een ontwerp voor quantum technologie. </statement>
+<statement id="28">De economische voordelen zijn voldoende reden voor grootschalige toepassing van quantum technologie.</statement>
+<statement id="29">Quantum technologie moet aan minder ontwikkelde landen beschikbaar gesteld worden, de Nederlandse aanpak moet hierin voorzien.</statement>
+<statement id="30">Een ethische discussie ten aanzien van quantum technologie is nutteloos als de Verenigde Staten en China deze technologie zomaar inzetten. </statement>
+<statement id="31">De Nederlandse aanpak  houdt voldoende rekening met het voorbereiden van de Rijksoverheid op quantum technologie.</statement>
+<statement id="32">De Nederlandse aanpak bevat  voldoende maatregelen om  de ontwikkeling van quantum technologie bij te sturen vanuit de Rijksoverheid. </statement>
+<statement id="33">De Nederlandse aanpak  moet voorzien zijn van kaders en richtlijnen gebaseerd op een impact analyse van quantum technologie. </statement>
+<statement id="34">Het is goed meer te investeren  in quantum technologie dan in andere sleutel technologieën.</statement>
+<statement id="35">De Nederlandse aanpak leidt onvoldoende tot specifieke innovaties om uitdagingen zoals ziekte, criminaliteit,  en sociale achterstand aan te pakken.</statement>
+<statement id="36">Het is nodig dat de Nederlandse aanpak op het gebied van quantum technologie meer doet aan scenario ontwikkeling.</statement>
+<statement id="37">De Nederlandse aanpak  heeft meer diversiteit nodig, zoals diversiteit in  leeftijdsgroepen, culturele achtergronden, en verschillende opleidingsperspectieven.</statement>
+<statement id="38">Gebaseerd op ervaring met andere technologieën kan een leek meer waarde toevoegen aan de Nederlandse aanpak  dan een specialist.</statement>
+<statement id="39">Een dialoog tussen de wetenschap, de politiek (het beleid), het bedrijfsleven en de maatschappij (de burgers) zou een centrale rol moeten spelen.</statement>
+<statement id="40">De Nederlandse aanpak op het gebied van quantum technologie mag veroorzaken dat mensen ongevraagd worden voorzien van quantum technologie.</statement>
+<statement id="41">Omdat quantum technologie moeilijk te begrijpen is, hebben we een andere manier nodig om de gevolgen in culturele zin te begrijpen.</statement>
 </statements>
