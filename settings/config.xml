@@ -1,55 +1,45 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<!--
-//
-// ===================================================
-// FlashQ by Christian Hackert and Gernot Braehler
-// ===================================================
-// Configuration file.
-// @author		Christian Hackert <www.hackert.biz/flashq>
-// @version		FlashQ version 1.0
-// ===================================================
-//
--->
+   <config version="1.0" htmlParse="false">
 
-<config version="1.0" htmlParse="false">
+     <!-- title of the study -->
+     <item id="studyTitle">Perspectieven op innovatiebeleid en quantumtechnologie</item>
 
-  <!-- title of the study -->
-  <item id="studyTitle">Perspectieven op innovatiebeleid en quantumtechnologie</item>
+     <!-- text-align property(left|right) -->
+     <item id="textAlign">left</item>
 
-  <!-- text-align property(left|right) -->
-  <item id="textAlign">left</item>
+     <!-- shuffle cards (true|false)  -->
+     <item id="shuffleCards">true</item>
 
-  <!-- shuffle cards (true|false)  -->
-  <item id="shuffleCards">true</item>
+     <!-- login required (true|false) -->
+     <item id="loginrequired">false</item>
+     <!-- login with common password (leave blank if not required) -->
+     <item id="loginPassword"></item>
+    <item id="partNameRequired">true</item>
+      <!-- URL to individual login script(leave blank if not required) -->
+     <item id="loginUrl"></item>
+     <!-- request mode (post|get) -->
+     <item id="loginUrlMethod"></item>
 
-  <!-- login required (true|false) -->
-  <item id="loginrequired">false</item>
-  <!-- login with common password (leave blank if not required) -->
-  <item id="loginPassword"></item>
-  <!-- URL to individual login script(leave blank if not required) -->
-  <item id="loginUrl"></item>
-  <!-- request mode (post|get) -->
-  <item id="loginUrlMethod"></item>
+     <item id="setConstantCardHeight">false</item>
+     <item id="constantCardHeight">150</item>
+     <item id="setConstantCardWidth">false</item>
+     <item id="constantCardWidth">200</item>
+     <!-- activate/deactivate optional steps (true|false) -->
+     <item id="showStep3">true</item>
+     <item id="showStep4">true</item>
+     <item id="showStep5">true</item>
 
-  <!-- activate/deactivate optional steps (true|false) -->
-  <item id="showStep3">true</item>
-  <item id="showStep4">true</item>
-  <item id="showStep5">true</item>
+     <!-- HtmlQ only: disable the in-window back button -->
+     <item id="disableBackButton">true</item>
 
-  <!-- HtmlQ only: disable the in-window back button -->
-  <item id="disableBackButton">false</item>
-
-<!-- Make the font of the cards smaller so that users can read more of the text -->
- <item id="smallFont">true</item>
-
-  <!-- define form elements for step5; only displayed if showStep5 is true (delete tags if not required) -->
-  <!-- add label: <label>[STRING]</label> -->
-  <!-- add note: <note>[STRING]</note> -->
-  <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
-  <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
-  <item id="form">
-
+     <!-- define form elements for step5; only displayed if showStep5 is true (delete tags if not required) -->
+     <!-- add label: <label>[STRING]</label> -->
+     <!-- add note: <note>[STRING]</note> -->
+     <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
+     <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
+     <item id="form">
+	 
 <label>Wat is uw naam:</label>
 <input required="true" type="textarea"></input>
 
@@ -77,14 +67,14 @@
 <label>Wilt u geanonimiseerd de onderzoeksuitkomsten ontvangen?</label>
 <input required="true" type="radio">Ja;Nee</input>
 
- 
-  </item>
+     </item>
 
-  <!-- URL for data transmission via POST/GET (leave blank if not required) -->
-  <item id="submitUrl">exe.php?do=save</item>
-  <!-- request mode (post|get) -->
-  <item id="submitUrlMethod">post</item>
-
-  <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
-  <item id="submitMail"></item>
- </config>
+     <!-- URL for data transmission via POST/GET (leave blank if not required) -->
+     <item id="submitUrl">exe.php?do=save</item>
+  
+     <!-- request mode (post|get|firebase) -->
+     <item id="submitUrlMethod">firebase</item>
+  
+     <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
+     <item id="submitMail">yourdomain.com</item>
+   </config>
